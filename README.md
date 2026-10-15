@@ -90,8 +90,8 @@ Open-source scheduling assistant.
 #### [CAMEL](https://github.com/camel-ai/camel)
 Communicative agents for mind exploration.
 
-#### [ChatArena](https://www.chatarena.org/)
-Multi-agent interaction framework.
+#### [Calder Brief](https://calder-brief.pages.dev/ai-hub)
+AI news hub with agent coverage (replaces the dead ChatArena link — domain expired and now serves spam).
 
 #### [ChatDev](https://github.com/OpenBMB/ChatDev)
 AI-driven software development team.
@@ -108,8 +108,8 @@ AI-driven software development lifecycle assistant.
 #### [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for multi-agent orchestration.
 
-#### [Databerry](https://www.databerry.ai/)
-No-code AI chatbot builder.
+#### [Calder Brief](https://calder-brief.pages.dev/ai-hub)
+AI news hub (replaces the dead Databerry link — service shut down).
 
 #### [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 AI-powered app prototyping tool.
